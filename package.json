@@ -87,7 +87,7 @@
         "enzyme-adapter-react-16": "^1.15.1",
         "eslint-utils": "^1.4.3",
         "jquery": "^3.4.1",
-        "node-sass": "^4.13.0",
+        "node-sass": "^4.13.1",
         "pdfjs-dist": "2.1.266",
         "react-scripts": "3.1.2",
         "redux-immutable-state-invariant": "^2.1.0",
